@@ -1,0 +1,13 @@
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.exe
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.deps.json
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.runtimeconfig.json
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.runtimeconfig.dev.json
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.dll
+C:\Users\GUILHERME\Documents\calculadoraApp\bin\Debug\netcoreapp3.1\calculadoraApp.pdb
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.csprojAssemblyReference.cache
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.AssemblyInfo.cs
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.dll
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.pdb
+C:\Users\GUILHERME\Documents\calculadoraApp\obj\Debug\netcoreapp3.1\calculadoraApp.genruntimeconfig.cache
