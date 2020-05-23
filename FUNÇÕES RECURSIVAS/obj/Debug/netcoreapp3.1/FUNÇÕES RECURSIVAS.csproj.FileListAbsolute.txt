@@ -1,0 +1,13 @@
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.exe
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.deps.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.runtimeconfig.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.runtimeconfig.dev.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\bin\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.csprojAssemblyReference.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.AssemblyInfo.cs
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\FUNÇÕES RECURSIVAS\obj\Debug\netcoreapp3.1\FUNÇÕES RECURSIVAS.genruntimeconfig.cache

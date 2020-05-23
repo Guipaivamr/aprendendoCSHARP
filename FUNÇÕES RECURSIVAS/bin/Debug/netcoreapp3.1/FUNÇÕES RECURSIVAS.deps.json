@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FUNÇÕES RECURSIVAS/1.0.0": {
+        "runtime": {
+          "FUNÇÕES RECURSIVAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FUNÇÕES RECURSIVAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
