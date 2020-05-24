@@ -1,0 +1,13 @@
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.exe
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.deps.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.runtimeconfig.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.runtimeconfig.dev.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\bin\Debug\netcoreapp3.1\TipoCalculadora.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.csprojAssemblyReference.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.AssemblyInfo.cs
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\TipoCalculadora\obj\Debug\netcoreapp3.1\TipoCalculadora.genruntimeconfig.cache

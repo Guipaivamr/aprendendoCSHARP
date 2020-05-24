@@ -1,0 +1,13 @@
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.exe
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.deps.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.runtimeconfig.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.runtimeconfig.dev.json
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\bin\Debug\netcoreapp3.1\Programação orientada a função.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.csprojAssemblyReference.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.AssemblyInfo.cs
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.dll
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.pdb
+C:\Users\GUILHERME\Documents\VSCODE\calculadoraApp\Programação orientada a função\obj\Debug\netcoreapp3.1\Programação orientada a função.genruntimeconfig.cache

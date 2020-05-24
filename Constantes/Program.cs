@@ -32,7 +32,6 @@ namespace Constantes
 
         public const int SAIDA_PROGRAMA = 1;
         public const int SAIDA2_PROGRAMA2 = 2;
-
         public const int SAIDA3_PROGRAMA3 = 3;
     }
 }
